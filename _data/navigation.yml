@@ -1,0 +1,37 @@
+# main links links
+main:
+  - title: "新闻动态"
+    url: /news/
+
+  - title: "教育及工作背景"
+    url: /education/
+
+  - title: "科研项目"
+    url: /scientific/
+
+  - title: "代表性论文"
+    url: /publications/
+
+  - title: "专利"
+    url: /patent/
+
+  - title: "获奖及荣誉"
+    url: /awards/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  # - title: "CV"
+  #   url: /cv/
+    
+  # - title: "Guide"
+  #   url: /markdown/
