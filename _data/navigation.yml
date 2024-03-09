@@ -1,21 +1,17 @@
 # main links links
 main:
-  - title: "新闻动态"
-    url: /news/
 
-  - title: "教育及工作背景"
-    url: /education/
+  - title: "研究课题"
+    url: /research/
 
-  - title: "科研项目"
-    url: /scientific/
-
-  - title: "代表性论文"
+  - title: "学术成果"
     url: /publications/
-  - title: "专利"
-    url: /patent/
 
-  - title: "获奖及荣誉"
-    url: /awards/
+  - title: "团队成员"
+    url: /members/
+
+  - title: "联系方式"
+    url: /contact/
 
   # - title: "Talks"
   #   url: /talks/    
