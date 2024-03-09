@@ -10,8 +10,7 @@ main:
     url: /scientific/
 
   - title: "代表性论文"
-    url: /publications.html
-
+    url: /publications/
   - title: "专利"
     url: /patent/
 
