@@ -41,16 +41,21 @@ redirect_from:
 - *2007.09-2010.07*，中国科学院研究生院，计算机应用技术，硕士
 - *2003.09-2007.07*，中国科学技术大学，电子信息科学与技术，学士
 
-<span class='anchor' id='projects'></span>
-# 💻 科研项目
-
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
 
 <span class='anchor' id='honors-and-awards'></span>
-# 🎖 获奖及荣誉
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🏆 获奖及荣誉
+
+-	*2022*，CCF推荐重要国际会议APNOMS2022最佳学生论文奖
+-	*2021*，天津市科学技术进步特等奖（9/12）
+-	*2021*，CCF推荐重要国际会议IEEE CSCWD2021最佳论文奖
+-	*2020*，ACM中国新星奖（天津）
+- *2020*，国际会议IWQoS2020最佳论文提名奖
+-	*2019*，天津大学沈志康奖教金
+-	*2019*，国际会议PDCAT2019最佳论文奖
+-	*2018*，天津大学“北洋学者-青年骨干教师计划”
+-	*2018*，天津市“131”创新型人才培养工程第三层次人才
+-	*2018*，国际会议IEEE SmartIoT2018最佳论文奖
+
 
 <br/>
 <br/>
