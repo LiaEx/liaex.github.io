@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /scientific/
+permalink: /members/
 author_profile: true
 ---
 

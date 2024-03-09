@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /patent/
+permalink: /contact/
 author_profile: true
 ---
 
