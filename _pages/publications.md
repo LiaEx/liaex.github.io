@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span class='anchor' id='publications'></span>
-# 📝 代表性论文 
+<span class='anchor' id='Journal'></span>
+# 📃 期刊论文 Journal Articles 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -21,3 +21,14 @@ author_profile: true
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<span class='anchor' id='Conference'></span>
+# 📜 代表性论文 Conference Proceedings
+
+<span class='anchor' id='Patent'></span>
+# 📑 专利 Patents
+
+<br/>
+<br/>
+<br/>
+<br/>
