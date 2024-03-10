@@ -20,7 +20,7 @@ More papers are available on [Google Scholar](https://) and [DBLP](https://dblp.
 - W. Wang, **X. Zhou***, T. Qiu, X. He, S. Ge. Location Privacy-aware Service Migration against Inference Attacks in Multi-user MEC Systems, IEEE Internet of Things Journal (JIOT), 2024, 11(1): 1413-1426. (SCI一区)
 - Y. Zhou, B. Ren, J. Xie, L. Luo, D. Guo, **X. Zhou**. Enable the proactively load-balanced control plane for SDN via intelligent switch-to-controller selection strategy, Computer Networks (CN), 2023, 233: 109867. (CCF B)
 - X. Zhu, T. Qiu, W. Qu, **X. Zhou**, Y. Wang and O. Wu. Path Planning for Adaptive CSI Map Construction with A3C in Dynamic Environments, IEEE Transactions on Mobile Computing (TMC), 2023, 22(5): 2925-2937. (CCF A)
-- J. Zhang, G. Fang, B. Wang, **X. Zhou**, Q. Pei, C. Chen*. Monocular 3D object detection with Pseudo-LiDAR confidence sampling and hierarchical geometric feature extraction in 6G network, Digital Communications and Networks (DCN), 2023, 9(4): 827-835. (SCI一区)
+- J. Zhang, G. Fang, B. Wang, **X. Zhou**, Q. Pei, C. Chen. Monocular 3D object detection with Pseudo-LiDAR confidence sampling and hierarchical geometric feature extraction in 6G network, Digital Communications and Networks (DCN), 2023, 9(4): 827-835. (SCI一区)
 - G. Lin, W. Jiang, S. Xu, **X. Zhou**, X. Guo, Y. Zhu, X. He. Human Activity Recognition Using Smartphones With WiFi Signals. IEEE Transactions on Human-Machine Systems (THMS), 2023, 53(1): 142-153. (CCF B)
 - X. Zhu, T. Qiu, W. Qu, **X. Zhou**, M. Atiquzzaman, D. O. Wu. BLS-Location: A Wireless Fingerprint Localization Algorithm Based on Broad Learning, IEEE Transactions on Mobile Computing (TMC), 2023, 22(1): 115-128. （CCF A）
 - **X. Zhou**, S. Ge, T. Qiu, K. Li, M. Atiquzzaman. Energy-efficient Service Migration for Multi-user Heterogeneous Dense Cellular Networks, IEEE Transactions on Mobile Computing (TMC), 2023, 22(2): 890-905. （CCF A）
@@ -45,8 +45,6 @@ More papers are available on [Google Scholar](https://) and [DBLP](https://dblp.
 - Q. Hao, J. Zeng, **X. Zhou***, T. Qiu. Freshness-Aware High Definition Map Caching with Distributed MAMAB in Internet of Vehicles. 17th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2022), November 24-26, 2022, Dalian, China.
 - T. Li, C. Zhang, **X. Zhou**. BP-CODS: Blind-Spot-Prediction-Assisted Multi-Vehicle Collaborative Data Scheduling. 17th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2022), November 24-26, 2022, Dalian, China.
 
-<br/>
-more available on [Google Scholar](https://) and [DBLP](https://dblp.org/pid/13/6395-3.html)
 
 <span class='anchor' id='Patent'></span>
 
