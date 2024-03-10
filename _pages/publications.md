@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+More papers are available on [Google Scholar](https://) and [DBLP](https://dblp.org/pid/13/6395-3.html)
+
 <span class='anchor' id='Journal'></span>
 
 # 📃 期刊论文 Journal Articles 
@@ -23,26 +25,25 @@ author_profile: true
 - X. Zhu, T. Qiu, W. Qu, **X. Zhou**, M. Atiquzzaman, D. O. Wu. BLS-Location: A Wireless Fingerprint Localization Algorithm Based on Broad Learning, IEEE Transactions on Mobile Computing (TMC), 2023, 22(1): 115-128. （CCF A）
 - **X. Zhou**, S. Ge, T. Qiu, K. Li, M. Atiquzzaman. Energy-efficient Service Migration for Multi-user Heterogeneous Dense Cellular Networks, IEEE Transactions on Mobile Computing (TMC), 2023, 22(2): 890-905. （CCF A）
 <br/>
-more available on [Google Scholar](https://) and [DBLP](https://dblp.org/pid/13/6395-3.html)
-
 
 <span class='anchor' id='Conference'></span>
 
 # 📜 会议论文 Conference Proceedings
-1. Z. Ke, **X. Zhou***, D. Jiang, H. Yan, T. Qiu. Reprojection-based Edge-Client Collaborative Rendering for Real-Time High-Quality Mobile Virtual Reality, The 44th IEEE Real-Time Systems Symposium (RTSS 2023), December 5-8, 2023, Taipei, Taiwan.
-2.	S. Qian, **X. Zhou**. Physical Layer Security in Air-To-Underwater Untrusted Relay Networks, The Seventeenth International Conference on Underwater Networks and Systems (WUWNet 2023), November 24-26, Shenzhen, China.
-3.	Y. Lu, S. Ge, W. Wang, **X. Zhou***, T. Qiu. An Adaptive Teacher-Student Framework for Real-Time Video Inference in Multi-User Heterogeneous MEC Networks, The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023), December 17-21, 2023, Hainan, China.
-4.	S. Ge, **X. Zhou***, T. Qiu, G. Wu, X. Wang. Ridesharing Order Dispatching with Dynamic Supply-demand Distribution, IEEE/ACM International Symposium on Quality of Service 2023 (IWQoS 2023), June 19-21, 2023, Orlando, FL, USA.
-5.	H. Huang, T. Xu, **X. Zhou**, T. Qiu. Multi-dimensional Transformer-based Sleep Monitoring Strategy Utilizing CSI Signal for Complex Scenes, 2023 IEEE International Conference on Communications (ICC 2023), May 28- Jun 01, 2023, Rome, Italy.
-6.	X. Yang, N. Chen, S. Zhang, **X. Zhou**, T. Xu, T. Qiu. An Evolutionary Reinforcement Learning Scheme for IoT Robustness, IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023), May 24-26, 2023, Rio de Janeiro, Brazil.
-7.	Y. Li, Q. Xie, W. Wang, **X. Zhou***, K. Li. GCN-Based Topology Design for Decentralized Federated Learning in IoV. Asia-Pacific Network Operations and Management Symposium (APNOMS 2022), September 28-30, 2022, Takamatsu, Japan.
-8.	L. Zhang, S. Zhang, N. Chen, W. Liu, **X. Zhou**, T. Qiu. A Neuro evolution-Inspired Scheme for Generating Robust Internet of Things, IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD 2022), May 4-6, 2022, Hangzhou, China.
-9.	X. Liu, Z. Ke, **X. Zhou***, T. Qiu, K. Li. QoE-oriented Adaptive Video Streaming with Edge-Client Collaborative Super-Resolution, IEEE Global Communications Conference (GLOBECOM 2022), December 4-8, 2022, Rio de Janeiro, Brazil.
-10.	S. Qian, Xin He, **X. Zhou**. Physical Layer Security in Untrusted Diamond Relay Networks With Imperfect Source-Relay Links, International Symposium on Networks, Computers and Communications (ISNCC 2022), July 19-22, 2022, Shenzhen, China.
-11.	S. Qian, J. He, **X. Zhou**, T. Imai, T. Matsumoto. Outage Analysis for Correlated Sources Coding over NOMA in Shadowed κ-μ Fading. IEEE Wireless Communications and Networking Conference (WCNC 2022), April 10-13, 2022, Austin, TX, USA.
-12.	K. Hou, T. Xu, C. Xu, **X. Zhou**, T. Qiu, F. Zan. A Prototype System for Blockchain Performance Evaluation. 17th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2022), November 24-26, 2022, Dalian, China.
-13.	Q. Hao, J. Zeng, **X. Zhou***, T. Qiu. Freshness-Aware High Definition Map Caching with Distributed MAMAB in Internet of Vehicles. 17th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2022), November 24-26, 2022, Dalian, China.
-14.	T. Li, C. Zhang, **X. Zhou**. BP-CODS: Blind-Spot-Prediction-Assisted Multi-Vehicle Collaborative Data Scheduling. 17th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2022), November 24-26, 2022, Dalian, China.
+- H. Yan, Z. Ke, X. Zhou, T. Qiu, X. Shi, D. Jiang. DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes, The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (CVPR 2024), June 17-21, 2024, Seattle WA, USA. (CCF A)
+- Z. Ke, **X. Zhou***, D. Jiang, H. Yan, T. Qiu. Reprojection-based Edge-Client Collaborative Rendering for Real-Time High-Quality Mobile Virtual Reality, The 44th IEEE Real-Time Systems Symposium (RTSS 2023), December 5-8, 2023, Taipei, Taiwan. (CCF A)
+- S. Qian, **X. Zhou**. Physical Layer Security in Air-To-Underwater Untrusted Relay Networks, The Seventeenth International Conference on Underwater Networks and Systems (WUWNet 2023), November 24-26, Shenzhen, China.
+- Y. Lu, S. Ge, W. Wang, **X. Zhou***, T. Qiu. An Adaptive Teacher-Student Framework for Real-Time Video Inference in Multi-User Heterogeneous MEC Networks, The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023), December 17-21, 2023, Hainan, China.
+- S. Ge, **X. Zhou***, T. Qiu, G. Wu, X. Wang. Ridesharing Order Dispatching with Dynamic Supply-demand Distribution, IEEE/ACM International Symposium on Quality of Service 2023 (IWQoS 2023), June 19-21, 2023, Orlando, FL, USA. (CCF B)
+- H. Huang, T. Xu, **X. Zhou**, T. Qiu. Multi-dimensional Transformer-based Sleep Monitoring Strategy Utilizing CSI Signal for Complex Scenes, 2023 IEEE International Conference on Communications (ICC 2023), May 28- Jun 01, 2023, Rome, Italy.
+- X. Yang, N. Chen, S. Zhang, **X. Zhou**, T. Xu, T. Qiu. An Evolutionary Reinforcement Learning Scheme for IoT Robustness, IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023), May 24-26, 2023, Rio de Janeiro, Brazil.
+- Y. Li, Q. Xie, W. Wang, **X. Zhou***, K. Li. GCN-Based Topology Design for Decentralized Federated Learning in IoV. Asia-Pacific Network Operations and Management Symposium (APNOMS 2022), September 28-30, 2022, Takamatsu, Japan.
+- L. Zhang, S. Zhang, N. Chen, W. Liu, **X. Zhou**, T. Qiu. A Neuro evolution-Inspired Scheme for Generating Robust Internet of Things, IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD 2022), May 4-6, 2022, Hangzhou, China.
+- X. Liu, Z. Ke, **X. Zhou***, T. Qiu, K. Li. QoE-oriented Adaptive Video Streaming with Edge-Client Collaborative Super-Resolution, IEEE Global Communications Conference (GLOBECOM 2022), December 4-8, 2022, Rio de Janeiro, Brazil.
+- S. Qian, Xin He, **X. Zhou**. Physical Layer Security in Untrusted Diamond Relay Networks With Imperfect Source-Relay Links, International Symposium on Networks, Computers and Communications (ISNCC 2022), July 19-22, 2022, Shenzhen, China.
+- S. Qian, J. He, **X. Zhou**, T. Imai, T. Matsumoto. Outage Analysis for Correlated Sources Coding over NOMA in Shadowed κ-μ Fading. IEEE Wireless Communications and Networking Conference (WCNC 2022), April 10-13, 2022, Austin, TX, USA.
+- K. Hou, T. Xu, C. Xu, **X. Zhou**, T. Qiu, F. Zan. A Prototype System for Blockchain Performance Evaluation. 17th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2022), November 24-26, 2022, Dalian, China.
+- Q. Hao, J. Zeng, **X. Zhou***, T. Qiu. Freshness-Aware High Definition Map Caching with Distributed MAMAB in Internet of Vehicles. 17th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2022), November 24-26, 2022, Dalian, China.
+- T. Li, C. Zhang, **X. Zhou**. BP-CODS: Blind-Spot-Prediction-Assisted Multi-Vehicle Collaborative Data Scheduling. 17th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2022), November 24-26, 2022, Dalian, China.
 
 <br/>
 more available on [Google Scholar](https://) and [DBLP](https://dblp.org/pid/13/6395-3.html)
