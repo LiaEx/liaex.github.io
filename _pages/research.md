@@ -35,6 +35,16 @@ author_profile: true
 - *国家重点研发计划重点专项项目*，2018YFB1004703，“精准专家推荐与推荐依据可视化呈现技术”课题“精准专家推荐与推荐可视化技术”子课题，2018/07-2021/06，121.9万，在研，主持；
 - *天津市人工智能科技重大专项*，17ZXRGGX00150，“面向智能汽车应用的导航定位于感知决策技术研发”，2017/10-2019/09，结题，参与。
 
+<span class='anchor' id='service'></span>
+
+# 📝 学术服务
+- IEEE高级会员、CCF高级会员、ACM会员
+- TPC Chair, IEEE CSCWD 2024
+- 程序委员会副主席，第十七届中国物联网学术会议（CWSN 2023）
+- TPC Chair, IEEE SmartIoT 2019
+- Local Chair, WASA 2018
+- Publication Chair, IEEE TrustCom/BigDataSE/ISPA 2016
+
 <br/>
 <br/>
 <br/>
