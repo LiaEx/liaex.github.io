@@ -29,7 +29,7 @@ More papers are available on [Google Scholar](https://) and [DBLP](https://dblp.
 <span class='anchor' id='Conference'></span>
 
 # 📜 会议论文 Conference Proceedings
-- H. Yan, Z. Ke, X. Zhou, T. Qiu, X. Shi, D. Jiang. DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes, The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (CVPR 2024), June 17-21, 2024, Seattle WA, USA. (CCF A)
+- H. Yan, Z. Ke, **X. Zhou***, T. Qiu, X. Shi, D. Jiang. DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes, The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (CVPR 2024), June 17-21, 2024, Seattle WA, USA. (CCF A)
 - Z. Ke, **X. Zhou***, D. Jiang, H. Yan, T. Qiu. Reprojection-based Edge-Client Collaborative Rendering for Real-Time High-Quality Mobile Virtual Reality, The 44th IEEE Real-Time Systems Symposium (RTSS 2023), December 5-8, 2023, Taipei, Taiwan. (CCF A)
 - S. Qian, **X. Zhou**. Physical Layer Security in Air-To-Underwater Untrusted Relay Networks, The Seventeenth International Conference on Underwater Networks and Systems (WUWNet 2023), November 24-26, Shenzhen, China.
 - Y. Lu, S. Ge, W. Wang, **X. Zhou***, T. Qiu. An Adaptive Teacher-Student Framework for Real-Time Video Inference in Multi-User Heterogeneous MEC Networks, The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023), December 17-21, 2023, Hainan, China.
