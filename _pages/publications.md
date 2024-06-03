@@ -10,7 +10,7 @@ More papers are available on [Google Scholar](https://) and [DBLP](https://dblp.
 <span class='anchor' id='Journal'></span>
 
 # 📃 期刊论文 Journal Articles 
-- J. Zeng, **X. Zhou***, K. Li. MADRL-Based Joint Edge Caching and Bitrate Selection for Multicategory 360° Video Streaming, IEEE Internet of Things Journal (JIOT), 2024, to appear.
+- J. Zeng, **X. Zhou***, K. Li. Towards High-Quality Low-Latency 360° Video Streaming With Edge-Client Collaborative Caching and Super-Resolution, IEEE Internet of Things Journal (JIOT), 2024, to appear.
 - **X. Zhou**, C. Dai, W. Wang, T. Qiu. *Global-Local Association Discrepancy for Multivariate Time Series Anomaly Detection in IIoT*, IEEE Internet of Things Journal (JIOT), 2024, 11(7): 11287-11297. (SCI一区)
 - **X. Zhou**, S. Ge, P. Liu, T. Qiu. DAG-based Dependent Tasks Offloading in MEC-enabled IoT with Soft Cooperation, IEEE Transactions on Mobile Computing (TMC), 2024, 23(6): 6908-6920. （CCF A）
 - **X. Zhou**, Z. Ke, T. Qiu. Recommendation-Driven Multi-Cell Cooperative Caching: A Multi-Agent Reinforcement Learning Approach, IEEE Transactions on Mobile Computing (TMC), 2024, 23(5): 4764-4776. （CCF A）
