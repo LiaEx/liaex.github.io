@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-More papers are available on [Google Scholar](https://) and [DBLP](https://dblp.org/pid/13/6395-3.html)
+More papers are available on [Google Scholar](https://scholar.google.com/citations?user=oA7bk2AAAAAJ) and [DBLP](https://dblp.org/pid/13/6395-3.html)
 
 <span class='anchor' id='Journal'></span>
 
