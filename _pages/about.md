@@ -19,6 +19,7 @@ redirect_from:
 
 <span class='anchor' id='news'></span>
 # 🔥 新闻动态
+- *2024.10.11*: &nbsp;🎉🎉 祝贺谢琦同学课题组一篇关于协作感知的论文被IEEE Transactions on Intelligent Transportation Systems期刊（中科院一区）接收！Congratulations!
 - *2024.09.13*: &nbsp;🎉🎉 祝贺课题组一篇关于端边协作视频流传输的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
 - *2024.05.22*：&nbsp;🎉🎉 祝贺曾嘉欣同学一篇关于物联网中360度视频端边协作缓存和超分的论文被IEEE Internet of Things Journal期刊（中科院一区）接收！Congratulations!
 - *2024.02.27*: &nbsp;🎉🎉 祝贺闫浩同学一篇关于物联网中视频的隐式神经表示的论文被计算机视觉领域顶会CVPR 2024（CCF A）接收，实现了课题组在该领域的一个突破！Congratulations!

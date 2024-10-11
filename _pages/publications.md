@@ -10,16 +10,20 @@ More papers are available on [Google Scholar](https://scholar.google.com/citatio
 <span class='anchor' id='Journal'></span>
 
 # 📃 期刊论文 Journal Articles
-- **X. Zhou**, J. Zeng, S. Ge, X. Liu, T. Qiu. Collaborative Video Streaming with Super-Resolution in Multi-User MEC Networks (TMC), 2024, to appear. （CCF A）
-- J. Zeng, **X. Zhou***, K. Li. Towards High-Quality Low-Latency 360° Video Streaming With Edge-Client Collaborative Caching and Super-Resolution, IEEE Internet of Things Journal (JIOT), 2024, to appear. (SCI一区)
-- **X. Zhou**, C. Dai, W. Wang, T. Qiu. *Global-Local Association Discrepancy for Multivariate Time Series Anomaly Detection in IIoT*, IEEE Internet of Things Journal (JIOT), 2024, 11(7): 11287-11297. (SCI一区)
+- Q. Xie, **X. Zhou**, T. Hong, T. Qiu, W. Qu. SwissCheese: Fine-grained Channel-spatial Feature Filtering for Communication-efficient Cooperative Perception, IEEE Transactions on Intelligent Transportation Systems (TITS), 2024, to appear. (SCI一区)
+- J. Chi, **X. Zhou**, F. Xiao, Y. Lim, T. Qiu. Task Offloading via Prioritized Experience-based Double Dueling DQN in Edge-assisted IIoT, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. （CCF A）
+- S. Zhang, **X. Zhou**, T. Qiu, D.O. Wu. Quantum-Inspired Robust Networking Model with Multiverse Co-Evolution for Scale-Free IoT, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. （CCF A）
+- N. Chen, T. Qiu, **X. Zhou**, S. Zhang, W. Si, D.O. Wu. A Distributed Co-Evolutionary Optimization Method With Motif for Large-Scale IoT Robustness, IEEE/ACM Transactions on Networking (TON), 2024, to appear. （CCF A）
+- **X. Zhou**, J. Zeng, S. Ge, X. Liu, T. Qiu. Collaborative Video Streaming with Super-Resolution in Multi-User MEC Networks, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. （CCF A）
+- J. Zeng, **X. Zhou**, K. Li. Towards High-Quality Low-Latency 360° Video Streaming With Edge-Client Collaborative Caching and Super-Resolution, IEEE Internet of Things Journal (JIOT), 2024, to appear. (SCI一区)
+- **X. Zhou**, C. Dai, W. Wang, T. Qiu. Global-Local Association Discrepancy for Multivariate Time Series Anomaly Detection in IIoT*, IEEE Internet of Things Journal (JIOT), 2024, 11(7): 11287-11297. (SCI一区)
 - **X. Zhou**, S. Ge, P. Liu, T. Qiu. DAG-based Dependent Tasks Offloading in MEC-enabled IoT with Soft Cooperation, IEEE Transactions on Mobile Computing (TMC), 2024, 23(6): 6908-6920. （CCF A）
 - **X. Zhou**, Z. Ke, T. Qiu. Recommendation-Driven Multi-Cell Cooperative Caching: A Multi-Agent Reinforcement Learning Approach, IEEE Transactions on Mobile Computing (TMC), 2024, 23(5): 4764-4776. （CCF A）
-- S. Ge, **X. Zhou***, T. Qiu, G. Wu, X. Wang. Towards Supply-Demand Equilibrium with Ridesharing: An Elastic Order Dispatching Algorithm in MoD System, IEEE Transactions on Mobile Computing (TMC), 2024, 23(5): 5229-5244. (CCF A)
+- S. Ge, **X. Zhou**, T. Qiu, G. Wu, X. Wang. Towards Supply-Demand Equilibrium with Ridesharing: An Elastic Order Dispatching Algorithm in MoD System, IEEE Transactions on Mobile Computing (TMC), 2024, 23(5): 5229-5244. (CCF A)
 - J. Chi, T. Qiu, F. Xiao, **X. Zhou**. ATOM: Adaptive Task Offloading With Two-Stage Hybrid Matching in MEC-Enabled Industrial IoT, IEEE Transactions on Mobile Computing (TMC), 2024, 23(5): 4861-4877. (CCF A)
 - L. Zhao, Y. Cui, Y. Yang, **X. Zhou**, T. Qiu, K. Li, Y. Bao. Component-distinguishable Co-location and Resource Reclamation for High-throughput Computing, ACM Transactions on Computer Systems (TOCS), 2024, 42(1-2): 1–37. (CCF A)
-- J. Zeng, **X. Zhou***, K. Li. MADRL-based Joint Edge Caching and Bitrate Selection for Multicategory 360-degree Video Streaming, IEEE Internet of Things Journal (JIOT), 2024, 11(1): 584-596. (SCI一区)
-- W. Wang, **X. Zhou***, T. Qiu, X. He, S. Ge. Location Privacy-aware Service Migration against Inference Attacks in Multi-user MEC Systems, IEEE Internet of Things Journal (JIOT), 2024, 11(1): 1413-1426. (SCI一区)
+- J. Zeng, **X. Zhou**, K. Li. MADRL-based Joint Edge Caching and Bitrate Selection for Multicategory 360-degree Video Streaming, IEEE Internet of Things Journal (JIOT), 2024, 11(1): 584-596. (SCI一区)
+- W. Wang, **X. Zhou**, T. Qiu, X. He, S. Ge. Location Privacy-aware Service Migration against Inference Attacks in Multi-user MEC Systems, IEEE Internet of Things Journal (JIOT), 2024, 11(1): 1413-1426. (SCI一区)
 - Y. Zhou, B. Ren, J. Xie, L. Luo, D. Guo, **X. Zhou**. Enable the proactively load-balanced control plane for SDN via intelligent switch-to-controller selection strategy, Computer Networks (CN), 2023, 233: 109867. (CCF B)
 - X. Zhu, T. Qiu, W. Qu, **X. Zhou**, Y. Wang and O. Wu. Path Planning for Adaptive CSI Map Construction with A3C in Dynamic Environments, IEEE Transactions on Mobile Computing (TMC), 2023, 22(5): 2925-2937. (CCF A)
 - J. Zhang, G. Fang, B. Wang, **X. Zhou**, Q. Pei, C. Chen. Monocular 3D object detection with Pseudo-LiDAR confidence sampling and hierarchical geometric feature extraction in 6G network, Digital Communications and Networks (DCN), 2023, 9(4): 827-835. (SCI一区)
