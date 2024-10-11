@@ -9,6 +9,9 @@ More papers are available on [Google Scholar](https://scholar.google.com/citatio
 
 <span class='anchor' id='Journal'></span>
 
+# 📚 专著 Books
+- **X. Zhou**, S. Ge, J. Chi, T. Qiu. Industrial Edge Computing: Architecture, Optimization and Applications, 2024, Springer
+
 # 📃 期刊论文 Journal Articles
 - Q. Xie, **X. Zhou**, T. Hong, T. Qiu, W. Qu. SwissCheese: Fine-grained Channel-spatial Feature Filtering for Communication-efficient Cooperative Perception, IEEE Transactions on Intelligent Transportation Systems (TITS), 2024, to appear. (SCI一区)
 - J. Chi, **X. Zhou**, F. Xiao, Y. Lim, T. Qiu. Task Offloading via Prioritized Experience-based Double Dueling DQN in Edge-assisted IIoT, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. （CCF A）
