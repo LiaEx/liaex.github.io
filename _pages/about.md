@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='news'></span>
 # 🔥 新闻动态
-- *2024.10.11*: &nbsp;🎉🎉 祝贺谢琦同学课题组一篇关于协作感知的论文被IEEE Transactions on Intelligent Transportation Systems期刊（中科院一区）接收！Congratulations!
+- *2024.10.11*: &nbsp;🎉🎉 祝贺谢琦同学一篇关于协作感知的论文被IEEE Transactions on Intelligent Transportation Systems期刊（中科院一区）接收！Congratulations!
 - *2024.09.13*: &nbsp;🎉🎉 祝贺课题组一篇关于端边协作视频流传输的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
 - *2024.08.23*：&nbsp;🎉🎉 祝贺课题组关于工业边缘计算的新书在springer出版社正式出版。Congratulations!
 - *2024.05.22*：&nbsp;🎉🎉 祝贺曾嘉欣同学一篇关于物联网中360度视频端边协作缓存和超分的论文被IEEE Internet of Things Journal期刊（中科院一区）接收！Congratulations!
