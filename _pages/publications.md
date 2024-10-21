@@ -38,6 +38,8 @@ More papers are available on [Google Scholar](https://scholar.google.com/citatio
 <span class='anchor' id='Conference'></span>
 
 # 📜 会议论文 Conference Proceedings
+- Q. Xie, **X. Zhou**, C. Wang, T. Qiu, W. Qu. KeyCoop: Communication-Efficient Raw-Level Cooperative Perception for Connected Autonomous Vehicles via Keypoints Extraction, 2024 21st Annual IEEE International Conference on Sensing, Communication, and Networking (SECON 2024), 2–4 December, 2024, Phoenix AZ, USA. (CCF B)
+- S. Ma, W. Wang, X. Zhou, K. Li. Adaptive Time Window Enabled Model Pool for Online Deep Anomaly Detection in IIoT, The 20th International Conference on Mobility, Sensing and Networking (MSN 2024), December 20-22, 2024, Harbin, China. (CCF C)
 - H. Yan, Z. Ke, **X. Zhou***, T. Qiu, X. Shi, D. Jiang. DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes, The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (CVPR 2024), June 17-21, 2024, Seattle WA, USA. (CCF A)
 - Z. Ke, **X. Zhou***, D. Jiang, H. Yan, T. Qiu. Reprojection-based Edge-Client Collaborative Rendering for Real-Time High-Quality Mobile Virtual Reality, The 44th IEEE Real-Time Systems Symposium (RTSS 2023), December 5-8, 2023, Taipei, Taiwan. (CCF A)
 - S. Qian, **X. Zhou**. Physical Layer Security in Air-To-Underwater Untrusted Relay Networks, The Seventeenth International Conference on Underwater Networks and Systems (WUWNet 2023), November 24-26, Shenzhen, China.
