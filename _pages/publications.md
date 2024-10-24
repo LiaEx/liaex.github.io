@@ -13,6 +13,7 @@ More papers are available on [Google Scholar](https://scholar.google.com/citatio
 - **X. Zhou**, S. Ge, J. Chi, T. Qiu. Industrial Edge Computing: Architecture, Optimization and Applications, 2024, Springer
 
 # 📃 期刊论文 Journal Articles
+- **X. Zhou**, C. Wang, Q. Xie, T. Qiu. V2I-Coop: Accurate Object Detection for Connected Automated Vehicles at Accident Black Spots with V2I Cross-Modality Cooperation, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. （CCF A）
 - Q. Xie, **X. Zhou**, T. Hong, T. Qiu, W. Qu. SwissCheese: Fine-grained Channel-spatial Feature Filtering for Communication-efficient Cooperative Perception, IEEE Transactions on Intelligent Transportation Systems (TITS), 2024, to appear. (SCI一区)
 - J. Chi, **X. Zhou**, F. Xiao, Y. Lim, T. Qiu. Task Offloading via Prioritized Experience-based Double Dueling DQN in Edge-assisted IIoT, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. （CCF A）
 - S. Zhang, **X. Zhou**, T. Qiu, D.O. Wu. Quantum-Inspired Robust Networking Model with Multiverse Co-Evolution for Scale-Free IoT, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. （CCF A）
