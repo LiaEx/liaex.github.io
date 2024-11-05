@@ -13,6 +13,7 @@ More papers are available on [Google Scholar](https://scholar.google.com/citatio
 - **Xiaobo Zhou**, Shuxin Ge, Jiancheng Chi, Tie Qiu. Industrial Edge Computing: Architecture, Optimization and Applications, 2024, Springer
 
 # 📃 期刊论文 Journal Articles
+- Shuxin Ge, **Xiaobo Zhou**, Tie Qiu. MADRL-based Order Dispatching in MoD Systems with Bipartite Graph Splitting, IEEE Transactions on Service Computing (TSC), 2024, to appear. (CCF A)
 - **Xiaobo Zhou**, Chuanan Wang, Qi Xie, Tie Qiu. V2I-Coop: Accurate Object Detection for Connected Automated Vehicles at Accident Black Spots with V2I Cross-Modality Cooperation, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. （CCF A）
 - Qi Xie, **Xiaobo Zhou**, Tianyu Hong, Tie Qiu, Wenyu Qu. SwissCheese: Fine-grained Channel-spatial Feature Filtering for Communication-efficient Cooperative Perception, IEEE Transactions on Intelligent Transportation Systems (TITS), 2024, to appear. (SCI一区)
 - Jiancheng Chi, **Xiaobo Zhou**, Fu Xiao, Yuto Lim, Tie Qiu. Task Offloading via Prioritized Experience-based Double Dueling DQN in Edge-assisted IIoT, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. （CCF A）
