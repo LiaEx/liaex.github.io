@@ -20,7 +20,7 @@ redirect_from:
 <span class='anchor' id='news'></span>
 # 🔥 新闻动态
 - *2024.11.06*: &nbsp;🎉🎉 祝贺谢琦同学关于物联网协作感知的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
-- *2024.11.05*: &nbsp;🎉🎉 祝贺葛树鑫同学关于车联网中共乘调度的论文被IEEE Transactions on Service Computing期刊（CCF-A）接收！Congratulations!
+- *2024.11.05*: &nbsp;🎉🎉 祝贺葛树鑫同学关于车联网中共乘调度的论文被IEEE Transactions on Services Computing期刊（CCF-A）接收！Congratulations!
 - *2024.10.24*: &nbsp;🎉🎉 祝贺王传安同学关于跨模态协作感知的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
 - *2024.10.21*: &nbsp;🎉🎉 祝贺谢琦同学关于物联网协作感知的论文被IEEE SECON 2024会议（CCF B）录取！Congratulations!
 - *2024.10.11*: &nbsp;🎉🎉 祝贺谢琦同学关于协作感知的论文被IEEE Transactions on Intelligent Transportation Systems期刊（中科院一区）接收！Congratulations!
