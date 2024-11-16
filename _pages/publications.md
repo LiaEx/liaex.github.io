@@ -13,13 +13,14 @@ More papers are available on [Google Scholar](https://scholar.google.com/citatio
 - **Xiaobo Zhou**, Shuxin Ge, Jiancheng Chi, Tie Qiu. Industrial Edge Computing: Architecture, Optimization and Applications, 2024, Springer
 
 # 📃 期刊论文 Journal Articles
+- **Xiaobo Zhou**, Shuxin Ge, Tie Qiu, Xingwei Wang. Preference-aware Vehicle Repositioning Recommendation for MoD Systems: A Coulomb Force Directed Perspective, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. (CCF A)
 - Qi Xie, **Xiaobo Zhou**, Tianyu Hong, Wenkai Hu, Wenyu Qu, Tie Qiu. Towards Communication-efficient Cooperative Perception via Planning-oriented Feature Sharing, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. (CCF A)
 - Shuxin Ge, **Xiaobo Zhou**, Tie Qiu. MADRL-based Order Dispatching in MoD Systems with Bipartite Graph Splitting, IEEE Transactions on Services Computing (TSC), 2024, to appear. (CCF A)
 - **Xiaobo Zhou**, Chuanan Wang, Qi Xie, Tie Qiu. V2I-Coop: Accurate Object Detection for Connected Automated Vehicles at Accident Black Spots with V2I Cross-Modality Cooperation, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. （CCF A）
 - Qi Xie, **Xiaobo Zhou**, Tianyu Hong, Tie Qiu, Wenyu Qu. SwissCheese: Fine-grained Channel-spatial Feature Filtering for Communication-efficient Cooperative Perception, IEEE Transactions on Intelligent Transportation Systems (TITS), 2024, to appear. (SCI一区)
-- Jiancheng Chi, **Xiaobo Zhou**, Fu Xiao, Yuto Lim, Tie Qiu. Task Offloading via Prioritized Experience-based Double Dueling DQN in Edge-assisted IIoT, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. （CCF A）
-- Songwei Zhang, **Xiaobo Zhou**, Tie Qiu, Dapeng Oliver Wu. Quantum-Inspired Robust Networking Model with Multiverse Co-Evolution for Scale-Free IoT, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. （CCF A）
 - **Xiaobo Zhou**, Jiaxin Zeng, Shuxin Ge, Xilai Liu, Tie Qiu. Collaborative Video Streaming with Super-Resolution in Multi-User MEC Networks, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. （CCF A）
+- Jiancheng Chi, **Xiaobo Zhou**, Fu Xiao, Yuto Lim, Tie Qiu. Task Offloading via Prioritized Experience-based Double Dueling DQN in Edge-assisted IIoT, IEEE Transactions on Mobile Computing (TMC), 2024, 2024, 23(12): 14575-14591. （CCF A）
+- Songwei Zhang, **Xiaobo Zhou**, Tie Qiu, Dapeng Oliver Wu. Quantum-Inspired Robust Networking Model with Multiverse Co-Evolution for Scale-Free IoT, IEEE Transactions on Mobile Computing (TMC), 2024, 23(12): 14085-14098. （CCF A）
 - Jiaxin Zeng, **Xiaobo Zhou**, Keqiu Li. Towards High-Quality Low-Latency 360° Video Streaming With Edge-Client Collaborative Caching and Super-Resolution, IEEE Internet of Things Journal (JIOT), 11(17): 29020-29034. (SCI一区)
 - Ning Chen, Tie Qiu, **Xiaobo Zhou**, Songwei Zhang, Weisheng Si, Dapeng Oliver Wu. A Distributed Co-Evolutionary Optimization Method With Motif for Large-Scale IoT Robustness, IEEE/ACM Transactions on Networking (TON), 2024, 32(5): 4085-4098. （CCF A）
 - **Xiaobo Zhou**, Cuini Dai, Weixu Wang, Tie Qiu. Global-Local Association Discrepancy for Multivariate Time Series Anomaly Detection in IIoT, IEEE Internet of Things Journal (JIOT), 2024, 11(7): 11287-11297. (SCI一区)
