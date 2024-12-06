@@ -13,6 +13,7 @@ More papers are available on [Google Scholar](https://scholar.google.com/citatio
 - **Xiaobo Zhou**, Shuxin Ge, Jiancheng Chi, Tie Qiu. Industrial Edge Computing: Architecture, Optimization and Applications, 2024, Springer
 
 # 📃 期刊论文 Journal Articles
+- Shuxin Ge, **Xiaobo Zhou**, Tie Qiu. R2Pricing: A MARL-based Pricing Strategy to Maximize Revenue in MoD Systems with Ridesharing and Repositioning, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. (CCF A)
 - Jiaxin Zeng, **Xiaobo Zhou**, Keqiu Li. Resource-efficient Joint Service Caching and Workload Scheduling in Ultra-dense MEC Networks: An Online Approach, IEEE Transactions on Network and Service Management (TNSM), 2024, to appear. (SCI二区)
 - **Xiaobo Zhou**, Shuxin Ge, Tie Qiu, Xingwei Wang. Preference-aware Vehicle Repositioning Recommendation for MoD Systems: A Coulomb Force Directed Perspective, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. (CCF A)
 - Qi Xie, **Xiaobo Zhou**, Tianyu Hong, Wenkai Hu, Wenyu Qu, Tie Qiu. Towards Communication-efficient Cooperative Perception via Planning-oriented Feature Sharing, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. (CCF A)
