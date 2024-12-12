@@ -19,6 +19,8 @@ redirect_from:
 
 <span class='anchor' id='news'></span>
 # 🔥 新闻动态
+- *2024.12.10*: &nbsp;🎉🎉 祝贺蒋大东同学关于物联网中动态场景表示的论文被人工智能领域顶会AAAI（CCF-A）接收！Congratulations!
+- *2024.12.06*: &nbsp;🎉🎉 祝贺葛树鑫同学关于车联网中共乘调度的论文被计算机网络领域顶会INFOCOM（CCF-A）接收！Congratulations!
 - *2024.12.06*: &nbsp;🎉🎉 祝贺葛树鑫同学关于车联网中共乘调度的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
 - *2024.12.02*: &nbsp;🎉🎉 祝贺曾嘉欣同学关于边缘缓存的论文被IEEE Transactions on Network and Service Management期刊（中科院二区）接收！Congratulations!
 - *2024.11.15*: &nbsp;🎉🎉 祝贺课题组关于车联网共乘调度的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!

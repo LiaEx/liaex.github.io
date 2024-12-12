@@ -44,6 +44,7 @@ More papers are available on [Google Scholar](https://scholar.google.com/citatio
 <span class='anchor' id='Conference'></span>
 
 # 📜 会议论文 Conference Proceedings
+- Shuxin Ge, **Xiaobo Zhou**, Tie Qiu. MARL-based Pricing Strategy via Mutual Attention for MoD Systems with Ridesharing and Repositioning, IEEE International Conference on Computer Communications (INFOCOM 2025), May 19–22, 2025, London, United Kingdom. (CCF A)
 - Dadong Jiang, Zhihui Ke, **Xiaobo Zhou**, Tie Qiu, Xidong Shi, Hao Yan. 4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via Semantic Distillation, International Conference on 3D Vision 2025 (3DV 2025), March 25-28, 2025, Singapore. (CCF C)
 - Qi Xie, **Xiaobo Zhou**, Chuanan Wang, Tie Qiu, Wenyu Qu. KeyCoop: Communication-Efficient Raw-Level Cooperative Perception for Connected Autonomous Vehicles via Keypoints Extraction, 2024 21st Annual IEEE International Conference on Sensing, Communication, and Networking (SECON 2024), 2–4 December, 2024, Phoenix AZ, USA. (CCF B)
 - Shuxin Ma, Weixu Wang, Xiaobo Zhou, Keqiu Li. Adaptive Time Window Enabled Model Pool for Online Deep Anomaly Detection in IIoT, The 20th International Conference on Mobility, Sensing and Networking (MSN 2024), December 20-22, 2024, Harbin, China. (CCF C)
