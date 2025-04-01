@@ -19,6 +19,7 @@ redirect_from:
 
 <span class='anchor' id='news'></span>
 # 🔥 新闻动态
+- *2025.03.24*: &nbsp;🎉🎉 祝贺王伟旭同学关于工业物联网中多元时序数据异常检测的论文被IEEE Transactions on Industrial Informatics期刊（中科院一区）接收！Congratulations!
 - *2024.12.10*: &nbsp;🎉🎉 祝贺蒋大东同学关于物联网中动态场景表示的论文被人工智能领域顶会AAAI（CCF-A）接收！Congratulations!
 - *2024.12.06*: &nbsp;🎉🎉 祝贺葛树鑫同学关于车联网中共乘调度的论文被计算机网络领域顶会INFOCOM（CCF-A）接收！Congratulations!
 - *2024.12.06*: &nbsp;🎉🎉 祝贺葛树鑫同学关于车联网中共乘调度的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!

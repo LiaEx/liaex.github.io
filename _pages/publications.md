@@ -13,10 +13,11 @@ More papers are available on [Google Scholar](https://scholar.google.com/citatio
 - **Xiaobo Zhou**, Shuxin Ge, Jiancheng Chi, Tie Qiu. Industrial Edge Computing: Architecture, Optimization and Applications, 2024, Springer
 
 # 📃 期刊论文 Journal Articles
+- Weixu Wang, **Xiaobo Zhou**, Tie Qiu, Lei Wang. MAGE: Multi-periodic Adaptive Graph Evolution Guided Anomaly Detection in Industrial IoT, IEEE Transactions on Industrial Informatics, 2025, to appear. (SCI一区)
 - Shuxin Ge, **Xiaobo Zhou**, Tie Qiu. R2Pricing: A MARL-based Pricing Strategy to Maximize Revenue in MoD Systems with Ridesharing and Repositioning, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. (CCF A)
 - Jiaxin Zeng, **Xiaobo Zhou**, Keqiu Li. Resource-efficient Joint Service Caching and Workload Scheduling in Ultra-dense MEC Networks: An Online Approach, IEEE Transactions on Network and Service Management (TNSM), 2024, to appear. (SCI二区)
-- **Xiaobo Zhou**, Shuxin Ge, Tie Qiu, Xingwei Wang. Preference-aware Vehicle Repositioning Recommendation for MoD Systems: A Coulomb Force Directed Perspective, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. (CCF A)
-- Qi Xie, **Xiaobo Zhou**, Tianyu Hong, Wenkai Hu, Wenyu Qu, Tie Qiu. Towards Communication-efficient Cooperative Perception via Planning-oriented Feature Sharing, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. (CCF A)
+- **Xiaobo Zhou**, Shuxin Ge, Tie Qiu, Xingwei Wang. Preference-aware Vehicle Repositioning Recommendation for MoD Systems: A Coulomb Force Directed Perspective, IEEE Transactions on Mobile Computing (TMC), 2025, 24(4): 2847-2860. (CCF A)
+- Qi Xie, **Xiaobo Zhou**, Tianyu Hong, Wenkai Hu, Wenyu Qu, Tie Qiu. Towards Communication-efficient Cooperative Perception via Planning-oriented Feature Sharing, IEEE Transactions on Mobile Computing (TMC), 2025, 24(4): 2551-2563. (CCF A)
 - **Xiaobo Zhou**, Chuanan Wang, Qi Xie, Tie Qiu. V2I-Coop: Accurate Object Detection for Connected Automated Vehicles at Accident Black Spots with V2I Cross-Modality Cooperation, IEEE Transactions on Mobile Computing (TMC), 2025, 24(3): 2043-2055. (CCF A)
 - **Xiaobo Zhou**, Jiaxin Zeng, Shuxin Ge, Xilai Liu, Tie Qiu. Collaborative Video Streaming with Super-Resolution in Multi-User MEC Networks, IEEE Transactions on Mobile Computing (TMC), 2025, 24(2): 571-584. (CCF A)
 - Shuxin Ge, **Xiaobo Zhou**, Tie Qiu. MADRL-based Order Dispatching in MoD Systems with Bipartite Graph Splitting, IEEE Transactions on Services Computing (TSC), 2024, 17(6): 3914-3927. (CCF A)
