@@ -46,7 +46,7 @@ More papers are available on [Google Scholar](https://scholar.google.com/citatio
 <span class='anchor' id='Conference'></span>
 
 # 📜 会议论文 Conference Proceedings
-- Zhihui Ke, Xiaobo Zhou, Yuyang Liu, Zhizhuo Pang, Tie Qiu. EdgeGaussian: Real-time Free-Viewpoint Video for Mobile VR via Edge-Client Collaborative Neural Rendering, The 31st Annual International Conference On Mobile Computing And Networking (MobiCom), November 4-8, 2025, Hong Kong, China. (CCF A)
+- Zhihui Ke, **Xiaobo Zhou**, Yuyang Liu, Zhizhuo Pang, Tie Qiu. EdgeGaussian: Real-time Free-Viewpoint Video for Mobile VR via Edge-Client Collaborative Neural Rendering, The 31st Annual International Conference On Mobile Computing And Networking (MobiCom), November 4-8, 2025, Hong Kong, China. (CCF A)
 - DaDong Jiang, Xianghui Yang, Zibo Zhao, Sheng Zhang, Jiaao Yu, Zeqiang Lai, Shaoxiong Yang, Chunchao Guo, **Xiaobo Zhou**, Zhihui Ke. FlexiTex: Enhancing Texture Generation via Visual Guidance, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), February 25-March 4, 2025, Philadelphia, USA. (CCF A)
 - Shuxin Ge, **Xiaobo Zhou**, Tie Qiu. MARL-based Pricing Strategy via Mutual Attention for MoD Systems with Ridesharing and Repositioning, IEEE International Conference on Computer Communications (INFOCOM), May 19-22, 2025, London, United Kingdom. (CCF A)
 - Dadong Jiang, Zhihui Ke, **Xiaobo Zhou**, Tie Qiu, Xidong Shi, Hao Yan. 4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via Semantic Distillation, International Conference on 3D Vision 2025 (3DV), March 25-28, 2025, Singapore. (CCF C)
