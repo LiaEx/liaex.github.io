@@ -19,6 +19,7 @@ redirect_from:
 
 <span class='anchor' id='news'></span>
 # 🔥 新闻动态
+- *2025.06.22*：&nbsp;🎉🎉 祝贺柯智慧同学关于移动VR端边协作渲染传输的论文被计算机网络领域顶会MobiCom 2025（CCF A）接收！Congratulations！
 - *2025.05.12*：&nbsp;🎉🎉 课题组一篇关于边缘视频流传输的论文被IEEE Transactions on Multimedia期刊（中科院一区）接收！Congratulations!
 - *2025.03.24*: &nbsp;🎉🎉 祝贺王伟旭同学关于工业物联网中多元时序数据异常检测的论文被IEEE Transactions on Industrial Informatics期刊（中科院一区）接收！Congratulations!
 - *2024.12.10*: &nbsp;🎉🎉 祝贺蒋大东同学关于物联网中动态场景表示的论文被人工智能领域顶会AAAI（CCF-A）接收！Congratulations!
