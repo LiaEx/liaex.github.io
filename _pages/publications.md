@@ -46,6 +46,8 @@ More papers are available on [Google Scholar](https://scholar.google.com/citatio
 <span class='anchor' id='Conference'></span>
 
 # 📜 会议论文 Conference Proceedings
+- TianyuHong, **Xiaobo Zhou**, wenkaihu, Qi Xie, Zhihui Ke, Tie Qiu. Communication-Efficient Multi-Vehicle Collaborative Semantic Segmentation via Sparse 3D Gaussian Sharing, IEEE International Conference on Computer Vision (ICCV), Oct 19 – 23th, 2025, Honolulu, Hawaii, USA. (CCF A)
+- Dadong Jiang, Zhi Hou, Zhihui Ke, Xianghui Yang, **Xiaobo Zhou**, Tie Qiu. TimeFormer: Capturing Temporal Relationships of Deformable 3D Gaussians for Robust Reconstruction, IEEE International Conference on Computer Vision (ICCV), Oct 19 – 23th, 2025, Honolulu, Hawaii, USA. (CCF A)
 - Zhihui Ke, **Xiaobo Zhou**, Yuyang Liu, Zhizhuo Pang, Tie Qiu. EdgeGaussian: Real-time Free-Viewpoint Video for Mobile VR via Edge-Client Collaborative Neural Rendering, The 31st Annual International Conference On Mobile Computing And Networking (MobiCom), November 4-8, 2025, Hong Kong, China. (CCF A)
 - DaDong Jiang, Xianghui Yang, Zibo Zhao, Sheng Zhang, Jiaao Yu, Zeqiang Lai, Shaoxiong Yang, Chunchao Guo, **Xiaobo Zhou**, Zhihui Ke. FlexiTex: Enhancing Texture Generation via Visual Guidance, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), February 25-March 4, 2025, Philadelphia, USA. (CCF A)
 - Shuxin Ge, **Xiaobo Zhou**, Tie Qiu. MARL-based Pricing Strategy via Mutual Attention for MoD Systems with Ridesharing and Repositioning, IEEE International Conference on Computer Communications (INFOCOM), May 19-22, 2025, London, United Kingdom. (CCF A)
