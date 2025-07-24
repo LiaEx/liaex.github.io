@@ -10,7 +10,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 个人简介
 
-**招收2025年入学博士和硕士，目前还有少量名额，邮件咨询：xiaobo.zhou@tju.edu.cn，更多信息请访问[智慧物联实验室](http://www.smartiotlab.net)。**
+**招收2026年入学博士和硕士，邮件咨询：xiaobo.zhou@tju.edu.cn，更多信息请访问[智慧物联实验室](http://www.smartiotlab.net)。**
 <br/>
 <br/>
 

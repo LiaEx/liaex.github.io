@@ -14,7 +14,7 @@ More papers are available on [Google Scholar](https://scholar.google.com/citatio
 
 # 📃 期刊论文 Journal Articles
 - Jiaxin Zeng, **Xiaobo Zhou**, Keqiu Li. Fairness-aware Multicategory 360◦ Video Streaming in Cloud-Edge Collaboration Networks, IEEE Transactions on Multimedia (TMM), 2025, to appear. (SCI一区)
-- Weixu Wang, **Xiaobo Zhou**, Tie Qiu, Lei Wang. MAGE: Multi-periodic Adaptive Graph Evolution Guided Anomaly Detection in Industrial IoT, IEEE Transactions on Industrial Informatics, 2025, to appear. (SCI一区)
+- Weixu Wang, **Xiaobo Zhou**, Tie Qiu, Lei Wang. MAGE: Multi-periodic Adaptive Graph Evolution Guided Anomaly Detection in Industrial IoT, IEEE Transactions on Industrial Informatics, 2025, 21(8): 6126-6136. (SCI一区)
 - Jiaxin Zeng, **Xiaobo Zhou**, Keqiu Li. Resource-efficient Joint Service Caching and Workload Scheduling in Ultra-dense MEC Networks: An Online Approach, IEEE Transactions on Network and Service Management (TNSM), 2025, 22(2): 1788-1800. (SCI二区)
 - Shuxin Ge, **Xiaobo Zhou**, Tie Qiu. R2Pricing: A MARL-based Pricing Strategy to Maximize Revenue in MoD Systems with Ridesharing and Repositioning, IEEE Transactions on Mobile Computing (TMC), 2025, 24(5): 3552-3566. (CCF A)
 - **Xiaobo Zhou**, Shuxin Ge, Tie Qiu, Xingwei Wang. Preference-aware Vehicle Repositioning Recommendation for MoD Systems: A Coulomb Force Directed Perspective, IEEE Transactions on Mobile Computing (TMC), 2025, 24(4): 2847-2860. (CCF A)
