@@ -11,6 +11,7 @@ author_profile: true
 - 柯智慧 (2021级)
 - 王伟旭 (2022级，联合指导)
 - 李孟臻 （2024级)
+- 袁廷立（2025级）
 
 
 <span class='anchor' id='Master'></span>
@@ -22,6 +23,11 @@ author_profile: true
 - 刘宇扬 (2024级)
 - 胡文凯 (2024级)
 - 乔鑫 （2024级)
+- 张静（2025级）
+- 马泽宇（2025级）
+- 付天赐（2025级）
+- 罗熙雯（2025级）
+- 薛雅文（2025级）
 
 <span class='anchor' id='Alumni'></span>
 

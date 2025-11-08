@@ -46,6 +46,8 @@ More papers are available on [Google Scholar](https://scholar.google.com/citatio
 <span class='anchor' id='Conference'></span>
 
 # 📜 会议论文 Conference Proceedings
+- Weixu Wang, **Xiaobo Zhou**, Xin Qiao, Lei Wang, Tie Qiu. CometNet: Contextual Motif-guided Long-term Time Series Forecasting，The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), January 20-27, 2026, Singapore. (CCF A)
+- Zhihui Ke, Yuyang Liu, **Xiaobo Zhou**, Tie Qiu. StreamSTGS: Streaming Spatial and Temporal Gaussian Grids for Real-Time Free-Viewpoint Video，The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), Jan. 20-27, 2026, Singapore. (CCF A)
 - Tianyu Hong, **Xiaobo Zhou**, Wenkai Hu, Qi Xie, Zhihui Ke, Tie Qiu. Communication-Efficient Multi-Vehicle Collaborative Semantic Segmentation via Sparse 3D Gaussian Sharing, IEEE International Conference on Computer Vision (ICCV), Oct 19 – 23th, 2025, Honolulu, Hawaii, USA. (CCF A)
 - Dadong Jiang, Zhi Hou, Zhihui Ke, Xianghui Yang, **Xiaobo Zhou**, Tie Qiu. TimeFormer: Capturing Temporal Relationships of Deformable 3D Gaussians for Robust Reconstruction, IEEE International Conference on Computer Vision (ICCV), Oct 19 – 23th, 2025, Honolulu, Hawaii, USA. (CCF A)
 - Zhihui Ke, **Xiaobo Zhou**, Yuyang Liu, Zhizhuo Pang, Tie Qiu. EdgeGaussian: Real-time Free-Viewpoint Video for Mobile VR via Edge-Client Collaborative Neural Rendering, The 31st Annual International Conference On Mobile Computing And Networking (MobiCom), November 4-8, 2025, Hong Kong, China. (CCF A)

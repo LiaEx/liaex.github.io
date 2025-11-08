@@ -19,6 +19,7 @@ redirect_from:
 
 <span class='anchor' id='news'></span>
 # 🔥 新闻动态
+- *2025.11.08*：&nbsp;🎉🎉 祝贺王伟旭和柯智慧两位同学的两篇论文被人工智能领域顶会AAAI 2026（CCF A）接收！Congratulations！
 - *2025.06.26*：&nbsp;🎉🎉 祝贺洪天宇同学和蒋大东同学的两篇论文被计算机视觉领域顶会ICCV 2025（CCF A）接收！Congratulations！
 - *2025.06.22*：&nbsp;🎉🎉 祝贺柯智慧同学关于移动VR端边协作渲染传输的论文被计算机网络领域顶会MobiCom 2025（CCF A）接收！Congratulations！
 - *2025.05.12*：&nbsp;🎉🎉 课题组一篇关于边缘视频流传输的论文被IEEE Transactions on Multimedia期刊（中科院一区）接收！Congratulations!
